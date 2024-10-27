@@ -9,3 +9,6 @@
 * Private Crypt & Decrypt Algorithm
 + New Era on Network
 - And New Upcoming Features...
+
+## Estimated release date
+- 31 . 10 . 24 - 00.09 (UTC+1)
